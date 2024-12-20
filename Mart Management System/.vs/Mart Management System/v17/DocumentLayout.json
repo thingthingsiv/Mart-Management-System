@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|c:\\users\\sivthingthing\\desktop\\mart management system\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|solutionrelative:frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|solutionrelative:frmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|solutionrelative:frmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|solutionrelative:frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|solutionrelative:frmdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|solutionrelative:frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|solutionrelative:frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|solutionrelative:frmorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_6ULAPOO_SQLEXPRESS/MartManagementSystem/True/SqlTable/dbo.tbOrderHistory.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sivthingthing\\source\\repos\\Mart Management System\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_6ULAPOO_SQLEXPRESS/MartManagementSystem/True/SqlTable/dbo.tbOrders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|solutionrelative:category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|solutionrelative:frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCFFC382-600B-4066-86F0-3EDE73A417D8}|Mart Management System.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmOrder.cs",
+              "DocumentMoniker": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmOrder.cs",
+              "RelativeDocumentMoniker": "frmOrder.cs",
+              "ToolTip": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmOrder.cs",
+              "RelativeToolTip": "frmOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:29:35.901Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.tbOrderHistory [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_6ULAPOO_SQLEXPRESS/MartManagementSystem/True/SqlTable/dbo.tbOrderHistory.sql",
+              "ToolTip": "dbo.tbOrderHistory [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-11T09:53:01.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\sivthingthing\\source\\repos\\Mart Management System\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Mart Management System\\SQLQuery1.sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-11T09:50:04.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDashBoard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmDashBoard.Designer.cs",
+              "RelativeDocumentMoniker": "frmDashBoard.Designer.cs",
+              "ToolTip": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmDashBoard.Designer.cs",
+              "RelativeToolTip": "frmDashBoard.Designer.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAD4v7wAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:23:37.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmDashBoard.cs",
+              "RelativeDocumentMoniker": "frmDashBoard.cs",
+              "ToolTip": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmDashBoard.cs",
+              "RelativeToolTip": "frmDashBoard.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:17:59.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDashBoard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmDashBoard.cs",
+              "RelativeDocumentMoniker": "frmDashBoard.cs",
+              "ToolTip": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmDashBoard.cs [Design]",
+              "RelativeToolTip": "frmDashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:14:54.629Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.tbOrders [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_6ULAPOO_SQLEXPRESS/MartManagementSystem/True/SqlTable/dbo.tbOrders.sql",
+              "ToolTip": "dbo.tbOrders [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-08T15:04:46.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:04:08.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmOrder.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmOrder.Designer.cs",
+              "RelativeDocumentMoniker": "frmOrder.Designer.cs",
+              "ToolTip": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmOrder.Designer.cs",
+              "RelativeToolTip": "frmOrder.Designer.cs",
+              "ViewState": "AQIAAK8BAAAAAAAAAAD4v8cBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:12:46.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:04:18.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\Category.cs",
+              "RelativeDocumentMoniker": "Category.cs",
+              "ToolTip": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\Category.cs",
+              "RelativeToolTip": "Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:04:16.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:04:03.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmUser.cs",
+              "DocumentMoniker": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmUser.cs",
+              "RelativeDocumentMoniker": "frmUser.cs",
+              "ToolTip": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmUser.cs",
+              "RelativeToolTip": "frmUser.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:01:55.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmUser.cs",
+              "RelativeDocumentMoniker": "frmUser.cs",
+              "ToolTip": "C:\\Users\\sivthingthing\\source\\repos\\Mart Management System\\frmUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\source\\repos\\Mart Management System\\frmUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:01:51.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmOrder.cs",
+              "RelativeDocumentMoniker": "frmOrder.cs",
+              "ToolTip": "C:\\Users\\sivthingthing\\source\\repos\\Mart Management System\\frmOrder.cs [Design]",
+              "RelativeToolTip": "..\\..\\source\\repos\\Mart Management System\\frmOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:29:33.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sivthingthing\\Desktop\\Mart Management System\\frmProduct.cs",
+              "RelativeDocumentMoniker": "frmProduct.cs",
+              "ToolTip": "C:\\Users\\sivthingthing\\source\\repos\\Mart Management System\\frmProduct.cs [Design]",
+              "RelativeToolTip": "..\\..\\source\\repos\\Mart Management System\\frmProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:40:01.037Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

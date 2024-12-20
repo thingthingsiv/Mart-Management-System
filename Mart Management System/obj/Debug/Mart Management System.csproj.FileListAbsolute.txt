@@ -1,0 +1,17 @@
+C:\Users\sivthingthing\source\repos\Mart Management System\bin\Debug\Mart Management System.exe.config
+C:\Users\sivthingthing\source\repos\Mart Management System\bin\Debug\Mart Management System.exe
+C:\Users\sivthingthing\source\repos\Mart Management System\bin\Debug\Mart Management System.pdb
+C:\Users\sivthingthing\source\repos\Mart Management System\obj\Debug\Mart Management System.csproj.AssemblyReference.cache
+C:\Users\sivthingthing\source\repos\Mart Management System\obj\Debug\Mart_Management_System.frmCategories.resources
+C:\Users\sivthingthing\source\repos\Mart Management System\obj\Debug\Mart_Management_System.frmDashBoard.resources
+C:\Users\sivthingthing\source\repos\Mart Management System\obj\Debug\Mart_Management_System.frmLogin.resources
+C:\Users\sivthingthing\source\repos\Mart Management System\obj\Debug\Mart_Management_System.frmMain.resources
+C:\Users\sivthingthing\source\repos\Mart Management System\obj\Debug\Mart_Management_System.frmOrder.resources
+C:\Users\sivthingthing\source\repos\Mart Management System\obj\Debug\Mart_Management_System.frmProduct.resources
+C:\Users\sivthingthing\source\repos\Mart Management System\obj\Debug\Mart_Management_System.Sign_Up.resources
+C:\Users\sivthingthing\source\repos\Mart Management System\obj\Debug\Mart_Management_System.frmUser.resources
+C:\Users\sivthingthing\source\repos\Mart Management System\obj\Debug\Mart_Management_System.Properties.Resources.resources
+C:\Users\sivthingthing\source\repos\Mart Management System\obj\Debug\Mart Management System.csproj.GenerateResource.cache
+C:\Users\sivthingthing\source\repos\Mart Management System\obj\Debug\Mart Management System.csproj.CoreCompileInputs.cache
+C:\Users\sivthingthing\source\repos\Mart Management System\obj\Debug\Mart Management System.exe
+C:\Users\sivthingthing\source\repos\Mart Management System\obj\Debug\Mart Management System.pdb
